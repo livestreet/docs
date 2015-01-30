@@ -1,15 +1,15 @@
 - Введение
-    - [Вступление](/framework/2.0/intro)
-    - [О релизе](/framework/2.0/releases)
+    - [Вступление]({{url}}/framework/{{version}}/intro)
+    - [О релизе]({{url}}/framework/{{version}}/releases)
 - Установка
-    - [Установка](/framework/2.0/installation)
-    - [Обновление](/framework/2.0/upgrade)
-    - [Конфигурация](/framework/2.0/configuration)
+    - [Установка]({{url}}/framework/{{version}}/installation)
+    - [Обновление]({{url}}/framework/{{version}}/upgrade)
+    - [Конфигурация]({{url}}/framework/{{version}}/configuration)
 - Архитектура
-    - [Общая концепция](/framework/2.0/concept)
-    - [Роутинг](/framework/2.0/routing)
+    - [Общая концепция]({{url}}/framework/{{version}}/concept)
+    - [Роутинг]({{url}}/framework/{{version}}/routing)
 - Модули
-    - [Кеш](/framework/2.0/cache)
+    - [Кеш]({{url}}/framework/{{version}}/cache)
 - Фронтэнд
-    - [Общие сведения](/framework/2.0/frontend-concept)
-    - [Шаблоны](/framework/2.0/frontend-templates)
+    - [Общие сведения]({{url}}/framework/{{version}}/frontend-concept)
+    - [Шаблоны]({{url}}/framework/{{version}}/frontend-templates)
