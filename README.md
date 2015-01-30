@@ -1,2 +1,1 @@
-# docs
 Документация LiveStreet
